@@ -6,10 +6,10 @@
 - 🔥 새로운 기술을 배우고, 문제 해결하는 걸 좋아합니다.
 
 ## 📊 GitHub Stats
-![재구's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![재구's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JgNet97&show_icons=true&theme=radical)
 
 ## 🔥 사용 언어 (Top Languages)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JgNet97&layout=compact&theme=radical)
 
 ## 🎯 목표 & 관심사
 - ✅ **게임 서버 개발**
